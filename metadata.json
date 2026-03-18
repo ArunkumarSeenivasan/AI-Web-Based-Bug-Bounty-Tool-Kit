@@ -1,0 +1,5 @@
+{
+  "name": "Web based Bug-bounty Tool-kit",
+  "description": "A comprehensive, beginner-friendly toolkit for web security testing, including port scanning, subdomain enumeration, and vulnerability analysis.",
+  "requestFramePermissions": []
+}
